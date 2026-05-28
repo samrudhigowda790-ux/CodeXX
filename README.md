@@ -38,13 +38,13 @@ Git & GitHub
 <br>
 User Interface<br>
        ↓
-Frontend Application
+Frontend Application<br>
        ↓
-Backend Server / API
+Backend Server / API<br>
        ↓
-Database Management
+Database Management<br>
        ↓
-Response to User
+Response to User<br>
 Architecture Explanation
 The user interacts with the frontend interface.
 Requests are sent to the backend server.
@@ -52,54 +52,54 @@ The backend processes business logic.
 Data is stored/retrieved from the database.
 Processed results are returned to the user.
 Setup Instructions
-Prerequisites
+Prerequisites<br>
 
 Make sure you have installed:
 
-Node.js
-Git
-VS Code
+Node.js<br>
+Git<br>
+VS Code<br>
 Clone the Repository
  git clone https://github.com/samrudhigowda790-ux/CodeXX.git
-Navigate to Project Folder
+<br>Navigate to Project Folder
  cd CodeXXInstall Dependencies
  npm start
  Open in Browser
  http://localhost:3000
  Folder Structure
- CodeXX/
-│── frontend/
-│── backend/
-│── database/
-│── assets/
-│── README.md
-│── package.json
-Future Enhancements
-AI-based features
-Cloud deployment
-Enhanced security
-Mobile responsiveness improvements
-Real-time analytics
-Team Details
-Team Name
+ <br>CodeXX/
+<br>│── frontend/
+<br>│── backend/
+<br>│── database/
+<br>│── assets/
+<br>│── README.md
+<br>│── package.json
+<br>Future Enhancements
+<br>AI-based features
+<br>Cloud deployment
+<br>Enhanced security
+<br>Mobile responsiveness improvements
+<br>Real-time analytics
+<br>Team Details
+<br>Team Name
 
 CodeXX Team
 
-Team Members
-Samrudhi M R
-Guhan M
-M Yukthi
-Keerti G
+<br>Team Members
+<br>Samrudhi M R
+<br>Guhan M
+<br>M Yukthi
+<br>Keerti G
 
-Contribution Guidelines
-Fork the repository
-Create a new branch
-Commit your changes
-Push to your branch
-Create a Pull Request
-License
+<br>Contribution Guidelines
+<br>Fork the repository
+<br>Create a new branch
+<br>Commit your changes
+<br>Push to your branch
+<br>Create a Pull Request
+<br>License
 
-This project is developed for educational and innovation purposes.
+<br>This project is developed for educational and innovation purposes.
 
 Contact
 
