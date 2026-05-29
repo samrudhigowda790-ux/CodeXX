@@ -64,9 +64,10 @@ Clone the Repository
 <br>Navigate to Project Folder
  cd CodeXXInstall Dependencies
  npm start
+ <br>
  Open in Browser
- http://localhost:3000
- Folder Structure
+https://tripmindai-cvtgckd3.manus.space
+<br> Folder Structure
  <br>CodeXX/
 <br>│── frontend/
 <br>│── backend/
